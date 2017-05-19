@@ -1,0 +1,10 @@
+How to use ?
+- During the first launch you'll have to specify:
+      an activation password (case in-sensitive)
+      the phone number on which you wish to receive the location by text messages (make sure you have unlimited text)
+      the interval of localisation updating
+
+- To activate the service just text the phone (where AntiTheft is installed) with the activation password you choose
+during the setup, you'll receive a text with a Google Maps link with the current phone location.
+
+- To stop the service just send "STOP" and the activation password (separated by a blank)
